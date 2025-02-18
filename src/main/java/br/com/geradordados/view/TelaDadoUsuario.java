@@ -10,7 +10,7 @@ public class TelaDadoUsuario {
 		System.out.println("Email: "+ usuario.getEmail());
 		System.out.println("Telefone: "+ usuario.getTelefone());
 		System.out.println("Senha: "+ usuario.getSenha());
-		System.out.println("************************");
+		System.out.println("*******************************");
 	}
 	
 }
