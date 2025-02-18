@@ -1,3 +1,17 @@
+##############################
+## Eclipse
+##############################
+.settings/
+bin/
+tmp/
 /target/
-/.classpath
-/.project
+.metadata
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
