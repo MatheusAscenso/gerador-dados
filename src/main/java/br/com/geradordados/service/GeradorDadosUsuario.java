@@ -5,6 +5,7 @@ import com.github.javafaker.Faker;
 import br.com.geradordados.model.UsuarioEntity;
 
 public class GeradorDadosUsuario {
+	
 	private UsuarioEntity usuario;
 
 	public UsuarioEntity gerarDados() {
